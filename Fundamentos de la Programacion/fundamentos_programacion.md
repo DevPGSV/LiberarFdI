@@ -161,7 +161,7 @@ y ya te aparecerá en la vista de árbol, pulsando CONTROL+N puedes abrir nuevas
 Abre una terminal y navega hasta el directorio de tu proyecto, después ejecuta:
 
 	g++ *.cpp -o main
-para compilarlo, y para correr tu programa ejecuta:
+para compilarlo, y para ejecutar tu programa escribe:
 	
 	./main
 
